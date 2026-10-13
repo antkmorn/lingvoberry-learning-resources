@@ -4,7 +4,7 @@
 
 A free English vocabulary pack by LingvoBerry for self-study and classroom practice.
 
-![A word, its meaning and an example in the English Starter 100 pack](assets/starter100-preview.png)
+![A word, its meaning and an example in the English Starter 100 pack](../../assets/starter100-preview.png)
 
 ## Choose your format
 
@@ -42,6 +42,6 @@ Start with a small group of words. Anki schedules the next reviews for you.
 
 ## Share and adapt
 
-Free to share and adapt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: **English Starter 100 by LingvoBerry**, [English word lists](https://lingvoberry.com/wordlist/en?utm_source=github.com&utm_medium=referral&utm_campaign=english-starter-100&utm_content=readme). Include the license and identify your changes when adapting the pack. See [LICENSE.md](LICENSE.md).
+Free to share and adapt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: **English Starter 100 by LingvoBerry**, [English word lists](https://lingvoberry.com/wordlist/en?utm_source=github.com&utm_medium=referral&utm_campaign=english-starter-100&utm_content=readme). Include the license and identify your changes when adapting the pack. See [LICENSE.md](../../LICENSE.md).
 
 [More English word lists on LingvoBerry →](https://lingvoberry.com/wordlist/en?utm_source=github.com&utm_medium=referral&utm_campaign=english-starter-100&utm_content=readme)
