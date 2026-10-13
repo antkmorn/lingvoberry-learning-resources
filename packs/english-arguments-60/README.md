@@ -1,6 +1,6 @@
 # English Arguments 60
 
-Evidence, caveats and clear conclusions. A free deck of **60 expressions in context** for upper-intermediate and advanced english learners.
+Evidence, caveats and clear conclusions. A free deck of **60 expressions in context** for upper-intermediate and advanced English learners.
 
 ![Front and back of an actual card](https://raw.githubusercontent.com/antkmorn/lingvoberry-learning-resources/master/assets/arguments60-preview.png)
 

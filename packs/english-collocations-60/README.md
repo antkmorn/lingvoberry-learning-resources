@@ -1,6 +1,6 @@
 # English Collocations 60
 
-Useful combinations for work and everyday life. A free deck of **60 expressions in context** for intermediate english learners.
+Useful combinations for work and everyday life. A free deck of **60 expressions in context** for intermediate English learners.
 
 ![Front and back of an actual card](https://raw.githubusercontent.com/antkmorn/lingvoberry-learning-resources/master/assets/collocations60-preview.png)
 
