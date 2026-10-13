@@ -1,31 +1,47 @@
 # English Starter 100
 
-100 everyday English words with simple English meanings and original example sentences, in CSV and Anki formats. Ten topics cover people, home, food, places, time, learning, actions, feelings, describing things and everyday tasks.
+**100 everyday words. Clear meanings. Examples you can use.**
 
-## Download
+A free English vocabulary pack by LingvoBerry for self-study and classroom practice.
 
-- `lingvoberry-english-starter-100.csv` works in spreadsheets and flashcard tools.
-- `lingvoberry-english-starter-100.apkg` contains 100 Anki cards. Open it with Anki, AnkiDroid or AnkiMobile.
-- `lingvoberry-english-starter-100.zip` includes both formats, these instructions and the license.
+![A word, its meaning and an example in the English Starter 100 pack](assets/starter100-preview.png)
 
-No account or subscription is needed to download these files.
+## Choose your format
 
-## Practice
+| Format | What you get | Download |
+|---|---|---|
+| **Anki** | 100 flashcards, organised by topic | [Get the Anki deck](https://github.com/antkmorn/lingvoberry-learning-resources/releases/download/starter100-v1.1/lingvoberry-english-starter-100.apkg) |
+| **CSV** | Word, meaning, example, topic and source; ready to adapt | [Get the CSV](https://github.com/antkmorn/lingvoberry-learning-resources/releases/download/starter100-v1.1/lingvoberry-english-starter-100.csv) |
+| **Complete pack** | Anki, CSV, previews, instructions and license in one ZIP | [Get the complete pack](https://github.com/antkmorn/lingvoberry-learning-resources/releases/download/starter100-v1.1/lingvoberry-english-starter-100.zip) |
 
-Study a few words, say what they mean and make a sentence of your own. In Anki, the front shows the word; the back gives its meaning and an example. Use the topic tags to choose a small group of cards. Teachers can adapt the CSV for their own classroom activities.
+The downloads are free. No account or subscription is required to download them. Open the deck with Anki or AnkiDroid; open the CSV with a spreadsheet or flashcard tool.
 
-This is a practical starter selection, not an official CEFR list or a frequency ranking. Each word shows one useful meaning. Many words have other meanings too. The pack has no audio or translations.
+## A look inside
 
-## Source and reuse
+**friend** · people
 
-Created with AI assistance and reviewed for this pack by LingvoBerry. The definitions and example sentences were written for this pack rather than copied from dictionaries or books.
+> A person you know well and like.
+>
+> “My friend lives near the park.”
 
-Free to share and adapt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: English Starter 100 by LingvoBerry, https://lingvoberry.com/wordlist/en. See `LICENSE.md`.
+Each card follows the same pattern: a word on the front, then a short English meaning and an example on the back. The pack contains text cards, without audio or translations. Each word covers one useful meaning.
 
-More learning resources:
+## Ten everyday topics
 
-- [English word lists](https://lingvoberry.com/wordlist/en)
-- [English reading by level](https://lingvoberry.com/read/en)
-- [English grammar exercises](https://lingvoberry.com/grammar/en)
+People · home · food · places · time · learning · actions · feelings · describing things · everyday tasks.
 
-LingvoBerry also offers a web and Android reading app. The downloads here are free; optional paid features in the app are separate.
+Use the topic tags in Anki to practise a smaller group. Teachers can filter the CSV by topic and adapt it into classroom activities.
+
+## Practise in three steps
+
+1. **Recall:** look at the word and say what it means.
+2. **Check:** turn the card and read the meaning and example.
+3. **Use:** make a sentence about your own life.
+
+Start with a small group of words. Anki schedules the next reviews for you.
+
+## Share and adapt
+
+Free to share and adapt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Credit: **English Starter 100 by LingvoBerry**, [English word lists](https://lingvoberry.com/wordlist/en). Include the license and identify your changes when adapting the pack. See [LICENSE.md](LICENSE.md).
+
+[More English word lists on LingvoBerry →](https://lingvoberry.com/wordlist/en?utm_source=github.com&utm_medium=referral&utm_campaign=english-starter-100&utm_content=readme)
