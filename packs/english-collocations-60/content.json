@@ -1,0 +1,542 @@
+[
+  {
+    "phrase": "weigh the options",
+    "meaning": "compare the possible choices carefully",
+    "prompt": "Before we sign the lease, we need to ［…］.",
+    "example": "Before we sign the lease, we need to weigh the options.",
+    "usage": "Use weigh for careful comparison, especially before a decision.",
+    "topic": "Planning and decisions",
+    "hint": "w… t… o…"
+  },
+  {
+    "phrase": "reach a consensus",
+    "meaning": "arrive at a decision that everyone in a group accepts",
+    "prompt": "We may need another meeting to ［…］ on the budget.",
+    "example": "We may need another meeting to reach a consensus on the budget.",
+    "usage": "A consensus is shared agreement; it need not be everyone's first choice.",
+    "topic": "Planning and decisions",
+    "hint": "r… a… c…"
+  },
+  {
+    "phrase": "take into account",
+    "meaning": "consider a fact when deciding something",
+    "prompt": "We must ［…］ the cost of maintaining the equipment.",
+    "example": "We must take into account the cost of maintaining the equipment.",
+    "usage": "Put the fact after account: take into account the cost.",
+    "topic": "Planning and decisions",
+    "hint": "t… i… a…"
+  },
+  {
+    "phrase": "set priorities",
+    "meaning": "decide which tasks or goals matter most",
+    "prompt": "With only two days left, we need to ［…］.",
+    "example": "With only two days left, we need to set priorities.",
+    "usage": "Priorities is usually plural when ranking several tasks.",
+    "topic": "Planning and decisions",
+    "hint": "s… p…"
+  },
+  {
+    "phrase": "make an informed decision",
+    "meaning": "choose after learning the relevant facts",
+    "prompt": "Read the contract carefully so you can ［…］.",
+    "example": "Read the contract carefully so you can make an informed decision.",
+    "usage": "Informed describes a decision based on information, not a quick guess.",
+    "topic": "Planning and decisions",
+    "hint": "m… a… i… d…"
+  },
+  {
+    "phrase": "rule out an option",
+    "meaning": "decide that one possible choice is unsuitable",
+    "prompt": "The safety report may lead us to ［…］ we had preferred.",
+    "example": "The safety report may lead us to rule out an option we had preferred.",
+    "usage": "Rule out means remove from consideration, not choose.",
+    "topic": "Planning and decisions",
+    "hint": "r… o… a… o…"
+  },
+  {
+    "phrase": "keep an open mind",
+    "meaning": "remain willing to consider new ideas",
+    "prompt": "Even if you dislike the proposal, try to ［…］.",
+    "example": "Even if you dislike the proposal, try to keep an open mind.",
+    "usage": "Often followed by about: keep an open mind about the changes.",
+    "topic": "Planning and decisions",
+    "hint": "k… a… o… m…"
+  },
+  {
+    "phrase": "draw up a plan",
+    "meaning": "prepare a detailed plan, often in writing",
+    "prompt": "The team will ［…］ for moving the office.",
+    "example": "The team will draw up a plan for moving the office.",
+    "usage": "Draw up also combines with a contract, a list or an agreement.",
+    "topic": "Planning and decisions",
+    "hint": "d… u… a… p…"
+  },
+  {
+    "phrase": "put a plan into action",
+    "meaning": "start carrying out a plan",
+    "prompt": "Once funding is approved, we can ［…］.",
+    "example": "Once funding is approved, we can put a plan into action.",
+    "usage": "Into action marks the move from preparation to doing.",
+    "topic": "Planning and decisions",
+    "hint": "p… a… p… i… a…"
+  },
+  {
+    "phrase": "leave room for improvement",
+    "meaning": "allow something to become better",
+    "prompt": "The new process works, but its long waiting times ［…］.",
+    "example": "The new process works, but its long waiting times leave room for improvement.",
+    "usage": "Usually suggests that something is acceptable but could be better.",
+    "topic": "Planning and decisions",
+    "hint": "l… r… f… i…"
+  },
+  {
+    "phrase": "meet a deadline",
+    "meaning": "finish something by the required time",
+    "prompt": "We will need a smaller first version to ［…］ this tight.",
+    "example": "We will need a smaller first version to meet a deadline this tight.",
+    "usage": "Meet goes with a deadline; miss a deadline means finish too late.",
+    "topic": "Work and projects",
+    "hint": "m… a… d…"
+  },
+  {
+    "phrase": "make steady progress",
+    "meaning": "improve or move forward at a consistent rate",
+    "prompt": "Short daily sessions help me ［…］ with my writing.",
+    "example": "Short daily sessions help me make steady progress with my writing.",
+    "usage": "Progress is uncountable: make progress, not make a progress.",
+    "topic": "Work and projects",
+    "hint": "m… s… p…"
+  },
+  {
+    "phrase": "delegate responsibility",
+    "meaning": "give another person the duty to handle something",
+    "prompt": "A manager must learn to ［…］ rather than approve every detail.",
+    "example": "A manager must learn to delegate responsibility rather than approve every detail.",
+    "usage": "Often followed by to someone; the manager may still be accountable.",
+    "topic": "Work and projects",
+    "hint": "d… r…"
+  },
+  {
+    "phrase": "take the initiative",
+    "meaning": "act without waiting to be told what to do",
+    "prompt": "If nobody has organised the meeting, you could ［…］.",
+    "example": "If nobody has organised the meeting, you could take the initiative.",
+    "usage": "The initiative refers to starting useful action yourself.",
+    "topic": "Work and projects",
+    "hint": "t… t… i…"
+  },
+  {
+    "phrase": "allocate resources",
+    "meaning": "assign available time, money or equipment to a purpose",
+    "prompt": "We should ［…］ to the projects with the clearest benefits.",
+    "example": "We should allocate resources to the projects with the clearest benefits.",
+    "usage": "Use allocate resources to a project or for a particular purpose.",
+    "topic": "Work and projects",
+    "hint": "a… r…"
+  },
+  {
+    "phrase": "streamline a process",
+    "meaning": "make a procedure simpler and more efficient",
+    "prompt": "Removing repeated approvals could ［…］ that now takes weeks.",
+    "example": "Removing repeated approvals could streamline a process that now takes weeks.",
+    "usage": "Streamline is about reducing unnecessary steps, not merely working faster.",
+    "topic": "Work and projects",
+    "hint": "s… a… p…"
+  },
+  {
+    "phrase": "address an issue",
+    "meaning": "deal with a problem or subject that needs attention",
+    "prompt": "The next update should ［…］ with duplicate invoices.",
+    "example": "The next update should address an issue with duplicate invoices.",
+    "usage": "Address an issue means deal with it; it does not guarantee a complete solution.",
+    "topic": "Work and projects",
+    "hint": "a… a… i…"
+  },
+  {
+    "phrase": "deliver results",
+    "meaning": "produce the expected or useful outcomes",
+    "prompt": "The revised training needs to ［…］ beyond high attendance.",
+    "example": "The revised training needs to deliver results beyond high attendance.",
+    "usage": "Results here means outcomes, not documents handed to someone.",
+    "topic": "Work and projects",
+    "hint": "d… r…"
+  },
+  {
+    "phrase": "maintain high standards",
+    "meaning": "keep the quality of work consistently high",
+    "prompt": "Clear review criteria help us ［…］ as the team grows.",
+    "example": "Clear review criteria help us maintain high standards as the team grows.",
+    "usage": "Maintain means preserve a level already achieved.",
+    "topic": "Work and projects",
+    "hint": "m… h… s…"
+  },
+  {
+    "phrase": "follow up on a request",
+    "meaning": "check what has happened after asking for something",
+    "prompt": "I will ［…］ for the missing delivery details.",
+    "example": "I will follow up on a request for the missing delivery details.",
+    "usage": "As a verb, follow up has no hyphen; a follow-up email does.",
+    "topic": "Work and projects",
+    "hint": "f… u… o… a… r…"
+  },
+  {
+    "phrase": "raise a concern",
+    "meaning": "mention a worry or possible problem",
+    "prompt": "Please ［…］ as soon as you notice a safety risk.",
+    "example": "Please raise a concern as soon as you notice a safety risk.",
+    "usage": "A concern is a worry; raise a concern is neutral workplace language.",
+    "topic": "Communication and relationships",
+    "hint": "r… a… c…"
+  },
+  {
+    "phrase": "clarify a misunderstanding",
+    "meaning": "explain something so that a mistaken interpretation is corrected",
+    "prompt": "A short call may help us ［…］ about the dates.",
+    "example": "A short call may help us clarify a misunderstanding about the dates.",
+    "usage": "Clarify focuses on making the meaning clear.",
+    "topic": "Communication and relationships",
+    "hint": "c… a… m…"
+  },
+  {
+    "phrase": "give constructive feedback",
+    "meaning": "offer comments that help someone improve",
+    "prompt": "Try to ［…］ with a specific suggestion for the next draft.",
+    "example": "Try to give constructive feedback with a specific suggestion for the next draft.",
+    "usage": "Constructive feedback is useful and specific; it need not be positive.",
+    "topic": "Communication and relationships",
+    "hint": "g… c… f…"
+  },
+  {
+    "phrase": "build rapport",
+    "meaning": "develop a comfortable and trusting connection",
+    "prompt": "Asking thoughtful questions can help you ［…］ with a new colleague.",
+    "example": "Asking thoughtful questions can help you build rapport with a new colleague.",
+    "usage": "Rapport is uncountable here: build rapport, not build a rapport.",
+    "topic": "Communication and relationships",
+    "hint": "b… r…"
+  },
+  {
+    "phrase": "find common ground",
+    "meaning": "discover a point on which different people agree",
+    "prompt": "We disagree about the method, but we can ［…］ on the goal.",
+    "example": "We disagree about the method, but we can find common ground on the goal.",
+    "usage": "Common ground can exist even when disagreement remains.",
+    "topic": "Communication and relationships",
+    "hint": "f… c… g…"
+  },
+  {
+    "phrase": "express reservations",
+    "meaning": "say that you have doubts about something",
+    "prompt": "Several members may ［…］ about the cost of the proposal.",
+    "example": "Several members may express reservations about the cost of the proposal.",
+    "usage": "Usually followed by about; reservations here means doubts, not bookings.",
+    "topic": "Communication and relationships",
+    "hint": "e… r…"
+  },
+  {
+    "phrase": "make a commitment",
+    "meaning": "promise to do something or give it serious effort",
+    "prompt": "Do not ［…］ to a delivery date before checking the schedule.",
+    "example": "Do not make a commitment to a delivery date before checking the schedule.",
+    "usage": "Use a commitment to a noun or to doing something.",
+    "topic": "Communication and relationships",
+    "hint": "m… a… c…"
+  },
+  {
+    "phrase": "honour an agreement",
+    "meaning": "do what you promised in an agreement",
+    "prompt": "Both partners must ［…］ even when it becomes inconvenient.",
+    "example": "Both partners must honour an agreement even when it becomes inconvenient.",
+    "usage": "Honour is the British spelling; honor is the American spelling.",
+    "topic": "Communication and relationships",
+    "hint": "h… a… a…"
+  },
+  {
+    "phrase": "resolve a conflict",
+    "meaning": "bring a disagreement to an acceptable end",
+    "prompt": "A neutral mediator can help the two teams ［…］.",
+    "example": "A neutral mediator can help the two teams resolve a conflict.",
+    "usage": "Resolve suggests the problem has been settled, unlike merely discussing it.",
+    "topic": "Communication and relationships",
+    "hint": "r… a… c…"
+  },
+  {
+    "phrase": "strike a balance",
+    "meaning": "find a workable middle position between competing needs",
+    "prompt": "We need to ［…］ between speed and accuracy.",
+    "example": "We need to strike a balance between speed and accuracy.",
+    "usage": "The usual pattern is strike a balance between A and B.",
+    "topic": "Communication and relationships",
+    "hint": "s… a… b…"
+  },
+  {
+    "phrase": "gain insight into",
+    "meaning": "develop a clearer understanding of something",
+    "prompt": "Interviews can help us ［…］ how learners use the app.",
+    "example": "Interviews can help us gain insight into how learners use the app.",
+    "usage": "Insight into names the subject that becomes clearer.",
+    "topic": "Learning and evidence",
+    "hint": "g… i… i…"
+  },
+  {
+    "phrase": "conduct research",
+    "meaning": "carry out a systematic investigation",
+    "prompt": "Before redesigning the course, we should ［…］ into learners' needs.",
+    "example": "Before redesigning the course, we should conduct research into learners' needs.",
+    "usage": "Research is uncountable in this sense; do not say a research.",
+    "topic": "Learning and evidence",
+    "hint": "c… r…"
+  },
+  {
+    "phrase": "gather evidence",
+    "meaning": "collect information that helps show whether something is true",
+    "prompt": "The investigators need to ［…］ before drawing a conclusion.",
+    "example": "The investigators need to gather evidence before drawing a conclusion.",
+    "usage": "Evidence is uncountable: a piece of evidence, not an evidence.",
+    "topic": "Learning and evidence",
+    "hint": "g… e…"
+  },
+  {
+    "phrase": "test a hypothesis",
+    "meaning": "check a proposed explanation against observations",
+    "prompt": "We can ［…］ by comparing the two groups under the same conditions.",
+    "example": "We can test a hypothesis by comparing the two groups under the same conditions.",
+    "usage": "A hypothesis is an explanation to test, not an established fact.",
+    "topic": "Learning and evidence",
+    "hint": "t… a… h…"
+  },
+  {
+    "phrase": "draw a conclusion",
+    "meaning": "decide what the available information suggests",
+    "prompt": "It is too early to ［…］ from three responses.",
+    "example": "It is too early to draw a conclusion from three responses.",
+    "usage": "Usually followed by from the evidence or about the subject.",
+    "topic": "Learning and evidence",
+    "hint": "d… a… c…"
+  },
+  {
+    "phrase": "challenge an assumption",
+    "meaning": "question a belief that has been accepted without enough examination",
+    "prompt": "The new data may ［…］ about who uses the service.",
+    "example": "The new data may challenge an assumption about who uses the service.",
+    "usage": "Challenge means question critically; it does not automatically mean disprove.",
+    "topic": "Learning and evidence",
+    "hint": "c… a… a…"
+  },
+  {
+    "phrase": "identify a pattern",
+    "meaning": "recognise a repeated or consistent feature",
+    "prompt": "A larger sample may help us ［…］ in the errors.",
+    "example": "A larger sample may help us identify a pattern in the errors.",
+    "usage": "A pattern requires repetition; one isolated example is not enough.",
+    "topic": "Learning and evidence",
+    "hint": "i… a… p…"
+  },
+  {
+    "phrase": "retain information",
+    "meaning": "keep learned facts or ideas in your memory",
+    "prompt": "Explaining an idea in your own words can help you ［…］.",
+    "example": "Explaining an idea in your own words can help you retain information.",
+    "usage": "Retain means keep over time, rather than understand for a moment.",
+    "topic": "Learning and evidence",
+    "hint": "r… i…"
+  },
+  {
+    "phrase": "bridge a gap",
+    "meaning": "connect two things that are too far apart or different",
+    "prompt": "Practical examples can ［…］ between theory and experience.",
+    "example": "Practical examples can bridge a gap between theory and experience.",
+    "usage": "Often followed by between A and B.",
+    "topic": "Learning and evidence",
+    "hint": "b… a… g…"
+  },
+  {
+    "phrase": "broaden your perspective",
+    "meaning": "help you consider a subject from more viewpoints",
+    "prompt": "Reading accounts from both sides can ［…］.",
+    "example": "Reading accounts from both sides can broaden your perspective.",
+    "usage": "Your can change to my, our or another possessive to fit the speaker.",
+    "topic": "Learning and evidence",
+    "hint": "b… y… p…"
+  },
+  {
+    "phrase": "incur costs",
+    "meaning": "become responsible for expenses",
+    "prompt": "A late cancellation may ［…］ that are not refundable.",
+    "example": "A late cancellation may incur costs that are not refundable.",
+    "usage": "Incur is formal; the costs arise from an action or situation.",
+    "topic": "Money and risk",
+    "hint": "i… c…"
+  },
+  {
+    "phrase": "cut expenses",
+    "meaning": "reduce the amount of money spent",
+    "prompt": "Sharing an office could help the small business ［…］.",
+    "example": "Sharing an office could help the small business cut expenses.",
+    "usage": "Cut suggests a reduction; it does not necessarily mean eliminate.",
+    "topic": "Money and risk",
+    "hint": "c… e…"
+  },
+  {
+    "phrase": "generate revenue",
+    "meaning": "bring in money from business activities",
+    "prompt": "The free trial does not ［…］ until a customer pays.",
+    "example": "The free trial does not generate revenue until a customer pays.",
+    "usage": "Revenue is income before expenses; it is not the same as profit.",
+    "topic": "Money and risk",
+    "hint": "g… r…"
+  },
+  {
+    "phrase": "break even",
+    "meaning": "have income equal to costs, with no profit or loss",
+    "prompt": "At the current price, we need fifty orders to ［…］.",
+    "example": "At the current price, we need fifty orders to break even.",
+    "usage": "Break even is the verb phrase; break-even point is a noun phrase.",
+    "topic": "Money and risk",
+    "hint": "b… e…"
+  },
+  {
+    "phrase": "pose a risk",
+    "meaning": "create the possibility of harm or loss",
+    "prompt": "Unencrypted backups may ［…］ to customer data.",
+    "example": "Unencrypted backups may pose a risk to customer data.",
+    "usage": "Use pose a risk to someone or something.",
+    "topic": "Money and risk",
+    "hint": "p… a… r…"
+  },
+  {
+    "phrase": "mitigate a risk",
+    "meaning": "reduce the likelihood or seriousness of possible harm",
+    "prompt": "Keeping a verified backup can ［…］ of losing important files.",
+    "example": "Keeping a verified backup can mitigate a risk of losing important files.",
+    "usage": "Mitigate means reduce, not guarantee complete protection.",
+    "topic": "Money and risk",
+    "hint": "m… a… r…"
+  },
+  {
+    "phrase": "assess the impact",
+    "meaning": "judge how strongly something affects people or things",
+    "prompt": "We need to ［…］ of the price change on existing customers.",
+    "example": "We need to assess the impact of the price change on existing customers.",
+    "usage": "The usual pattern is the impact of X on Y.",
+    "topic": "Money and risk",
+    "hint": "a… t… i…"
+  },
+  {
+    "phrase": "bear the cost",
+    "meaning": "pay an expense or accept its financial burden",
+    "prompt": "The supplier should ［…］ of replacing the faulty parts.",
+    "example": "The supplier should bear the cost of replacing the faulty parts.",
+    "usage": "Bear is irregular: bear, bore, borne.",
+    "topic": "Money and risk",
+    "hint": "b… t… c…"
+  },
+  {
+    "phrase": "secure funding",
+    "meaning": "obtain money needed for a project",
+    "prompt": "The museum must ［…］ before it can restore the building.",
+    "example": "The museum must secure funding before it can restore the building.",
+    "usage": "Secure stresses successfully obtaining the money.",
+    "topic": "Money and risk",
+    "hint": "s… f…"
+  },
+  {
+    "phrase": "offer value for money",
+    "meaning": "give benefits that are worth the price paid",
+    "prompt": "A durable product can ［…］ even if it costs more initially.",
+    "example": "A durable product can offer value for money even if it costs more initially.",
+    "usage": "Value for money compares the benefit with the price, not just the lowest price.",
+    "topic": "Money and risk",
+    "hint": "o… v… f… m…"
+  },
+  {
+    "phrase": "adapt to change",
+    "meaning": "adjust how you act when circumstances become different",
+    "prompt": "Flexible routines help people ［…］ at work.",
+    "example": "Flexible routines help people adapt to change at work.",
+    "usage": "To is a preposition here: adapt to a change or to working differently.",
+    "topic": "Change and everyday challenges",
+    "hint": "a… t… c…"
+  },
+  {
+    "phrase": "overcome an obstacle",
+    "meaning": "succeed in dealing with something that blocks progress",
+    "prompt": "A shared calendar may help the team ［…］ to coordination.",
+    "example": "A shared calendar may help the team overcome an obstacle to coordination.",
+    "usage": "Often followed by to: an obstacle to progress.",
+    "topic": "Change and everyday challenges",
+    "hint": "o… a… o…"
+  },
+  {
+    "phrase": "cope with pressure",
+    "meaning": "manage a difficult or stressful situation",
+    "prompt": "Regular breaks can help you ［…］ during a busy week.",
+    "example": "Regular breaks can help you cope with pressure during a busy week.",
+    "usage": "Cope takes with; it means manage, not necessarily remove the pressure.",
+    "topic": "Change and everyday challenges",
+    "hint": "c… w… p…"
+  },
+  {
+    "phrase": "sustain an effort",
+    "meaning": "keep working at something over time",
+    "prompt": "Small achievable goals make it easier to ［…］ over several months.",
+    "example": "Small achievable goals make it easier to sustain an effort over several months.",
+    "usage": "Sustain emphasises continuing rather than starting.",
+    "topic": "Change and everyday challenges",
+    "hint": "s… a… e…"
+  },
+  {
+    "phrase": "seize an opportunity",
+    "meaning": "act quickly to use a favourable chance",
+    "prompt": "Be ready to ［…］ when a suitable position opens.",
+    "example": "Be ready to seize an opportunity when a suitable position opens.",
+    "usage": "Seize is stronger and more urgent than simply use.",
+    "topic": "Change and everyday challenges",
+    "hint": "s… a… o…"
+  },
+  {
+    "phrase": "reach a turning point",
+    "meaning": "arrive at a moment when a situation begins to change significantly",
+    "prompt": "The project may ［…］ when its first customer renews.",
+    "example": "The project may reach a turning point when its first customer renews.",
+    "usage": "A turning point can lead to improvement or decline; the context decides.",
+    "topic": "Change and everyday challenges",
+    "hint": "r… a… t… p…"
+  },
+  {
+    "phrase": "make a lasting impression",
+    "meaning": "have an effect that someone remembers for a long time",
+    "prompt": "A thoughtful welcome can ［…］ on a new employee.",
+    "example": "A thoughtful welcome can make a lasting impression on a new employee.",
+    "usage": "Usually followed by on a person.",
+    "topic": "Change and everyday challenges",
+    "hint": "m… a… l… i…"
+  },
+  {
+    "phrase": "gain momentum",
+    "meaning": "begin to move forward with increasing strength or speed",
+    "prompt": "The campaign should ［…］ as more volunteers join.",
+    "example": "The campaign should gain momentum as more volunteers join.",
+    "usage": "Momentum is uncountable in this use.",
+    "topic": "Change and everyday challenges",
+    "hint": "g… m…"
+  },
+  {
+    "phrase": "set realistic expectations",
+    "meaning": "establish ideas about what is likely and achievable",
+    "prompt": "An honest project estimate helps us ［…］.",
+    "example": "An honest project estimate helps us set realistic expectations.",
+    "usage": "Expectations should match what can reasonably happen.",
+    "topic": "Change and everyday challenges",
+    "hint": "s… r… e…"
+  },
+  {
+    "phrase": "make a conscious effort",
+    "meaning": "deliberately try to do something",
+    "prompt": "I have to ［…］ to listen without interrupting.",
+    "example": "I have to make a conscious effort to listen without interrupting.",
+    "usage": "Usually followed by to plus a verb; conscious means deliberate here.",
+    "topic": "Change and everyday challenges",
+    "hint": "m… a… c… e…"
+  }
+]

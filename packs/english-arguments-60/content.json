@@ -1,0 +1,542 @@
+[
+  {
+    "phrase": "draw a distinction",
+    "meaning": "explain how two things are different",
+    "prompt": "It is useful to ［…］ between access to information and understanding it.",
+    "example": "It is useful to draw a distinction between access to information and understanding it.",
+    "usage": "Use between A and B; a distinction is a difference that matters to the argument.",
+    "topic": "Evidence and reasoning",
+    "hint": "d… a… d…"
+  },
+  {
+    "phrase": "lend support to",
+    "meaning": "make an idea or explanation more credible",
+    "prompt": "The follow-up interviews ［…］ the survey's main finding.",
+    "example": "The follow-up interviews lend support to the survey's main finding.",
+    "usage": "Support strengthens a claim; it does not necessarily prove it.",
+    "topic": "Evidence and reasoning",
+    "hint": "l… s… t…"
+  },
+  {
+    "phrase": "call into question",
+    "meaning": "give a reason to doubt something",
+    "prompt": "The missing records ［…］ the reliability of the estimate.",
+    "example": "The missing records call into question the reliability of the estimate.",
+    "usage": "Place the thing being doubted after question.",
+    "topic": "Evidence and reasoning",
+    "hint": "c… i… q…"
+  },
+  {
+    "phrase": "on the grounds that",
+    "meaning": "because of the stated reason",
+    "prompt": "The committee rejected the proposal ［…］ it lacked a clear budget.",
+    "example": "The committee rejected the proposal on the grounds that it lacked a clear budget.",
+    "usage": "A formal way to state a reason for a decision; followed by a clause.",
+    "topic": "Evidence and reasoning",
+    "hint": "o… t… g… t…"
+  },
+  {
+    "phrase": "be consistent with",
+    "meaning": "fit or agree with other information",
+    "prompt": "The observed result would ［…］ either of the two explanations.",
+    "example": "The observed result would be consistent with either of the two explanations.",
+    "usage": "Consistency alone does not establish that an explanation is correct.",
+    "topic": "Evidence and reasoning",
+    "hint": "b… c… w…"
+  },
+  {
+    "phrase": "there is compelling evidence that",
+    "meaning": "the available information strongly supports a claim",
+    "prompt": "For this particular sample, ［…］ the new method reduced errors.",
+    "example": "For this particular sample, there is compelling evidence that the new method reduced errors.",
+    "usage": "Compelling is a strong claim; name evidence that justifies that strength.",
+    "topic": "Evidence and reasoning",
+    "hint": "t… i… c… e… t…"
+  },
+  {
+    "phrase": "rest on an assumption",
+    "meaning": "depend on a belief that has not necessarily been established",
+    "prompt": "The forecast appears to ［…］ that demand will keep growing.",
+    "example": "The forecast appears to rest on an assumption that demand will keep growing.",
+    "usage": "Use that plus a clause to explain the assumption.",
+    "topic": "Evidence and reasoning",
+    "hint": "r… o… a… a…"
+  },
+  {
+    "phrase": "warrant further investigation",
+    "meaning": "deserve more careful examination",
+    "prompt": "The difference between the two groups may ［…］.",
+    "example": "The difference between the two groups may warrant further investigation.",
+    "usage": "Warrant means justify; it does not mean the explanation is already known.",
+    "topic": "Evidence and reasoning",
+    "hint": "w… f… i…"
+  },
+  {
+    "phrase": "a plausible explanation",
+    "meaning": "an account that could reasonably be true",
+    "prompt": "A change in the sample is ［…］ for the difference.",
+    "example": "A change in the sample is a plausible explanation for the difference.",
+    "usage": "Plausible means believable, not confirmed.",
+    "topic": "Evidence and reasoning",
+    "hint": "a… p… e…"
+  },
+  {
+    "phrase": "the burden of proof",
+    "meaning": "the responsibility to supply evidence for a claim",
+    "prompt": "In this debate, ［…］ lies with the person making the new claim.",
+    "example": "In this debate, the burden of proof lies with the person making the new claim.",
+    "usage": "Often followed by lies with or is on; who carries it depends on the context.",
+    "topic": "Evidence and reasoning",
+    "hint": "t… b… o… p…"
+  },
+  {
+    "phrase": "to some extent",
+    "meaning": "partly, but not completely",
+    "prompt": "［…］, the choice depends on how much time the learner has.",
+    "example": "To some extent, the choice depends on how much time the learner has.",
+    "usage": "Useful for qualifying a statement without rejecting it entirely.",
+    "topic": "Qualification and uncertainty",
+    "hint": "t… s… e…"
+  },
+  {
+    "phrase": "subject to revision",
+    "meaning": "liable to be changed when new information becomes available",
+    "prompt": "The figures are ［…］ once the late responses arrive.",
+    "example": "The figures are subject to revision once the late responses arrive.",
+    "usage": "Often describes provisional estimates, plans or conclusions.",
+    "topic": "Qualification and uncertainty",
+    "hint": "s… t… r…"
+  },
+  {
+    "phrase": "with certain reservations",
+    "meaning": "while retaining some specific doubts",
+    "prompt": "I support the proposal ［…］ about its implementation.",
+    "example": "I support the proposal with certain reservations about its implementation.",
+    "usage": "State the reservations afterwards instead of leaving the doubts vague.",
+    "topic": "Qualification and uncertainty",
+    "hint": "w… c… r…"
+  },
+  {
+    "phrase": "not necessarily",
+    "meaning": "not true in every case or not an inevitable conclusion",
+    "prompt": "A higher price does ［…］ indicate better quality.",
+    "example": "A higher price does not necessarily indicate better quality.",
+    "usage": "Usually placed between an auxiliary and the main verb.",
+    "topic": "Qualification and uncertainty",
+    "hint": "n… n…"
+  },
+  {
+    "phrase": "in all likelihood",
+    "meaning": "very probably, though not with complete certainty",
+    "prompt": "［…］, the review will take more than one afternoon.",
+    "example": "In all likelihood, the review will take more than one afternoon.",
+    "usage": "A fairly strong probability claim; avoid it when the evidence is weak.",
+    "topic": "Qualification and uncertainty",
+    "hint": "i… a… l…"
+  },
+  {
+    "phrase": "it remains to be seen whether",
+    "meaning": "we do not yet know if something will happen or be true",
+    "prompt": "［…］ the shorter course improves long-term retention.",
+    "example": "It remains to be seen whether the shorter course improves long-term retention.",
+    "usage": "Use whether plus a clause; often concerns an outcome that is still pending.",
+    "topic": "Qualification and uncertainty",
+    "hint": "i… r… t… b… s… w…"
+  },
+  {
+    "phrase": "within the limits of",
+    "meaning": "only as far as the stated restrictions allow",
+    "prompt": "The conclusion is useful ［…］ the small sample.",
+    "example": "The conclusion is useful within the limits of the small sample.",
+    "usage": "Name the limitation that bounds the claim.",
+    "topic": "Qualification and uncertainty",
+    "hint": "w… t… l… o…"
+  },
+  {
+    "phrase": "tentative conclusion",
+    "meaning": "a provisional judgement that may change",
+    "prompt": "With only one week of observations, this must remain a ［…］.",
+    "example": "With only one week of observations, this must remain a tentative conclusion.",
+    "usage": "Tentative signals that more evidence may alter the judgement.",
+    "topic": "Qualification and uncertainty",
+    "hint": "t… c…"
+  },
+  {
+    "phrase": "cannot be ruled out",
+    "meaning": "remains a possibility even if it has not been shown",
+    "prompt": "A recording error ［…］ until the original files are checked.",
+    "example": "A recording error cannot be ruled out until the original files are checked.",
+    "usage": "The passive phrase says the possibility remains, not that it is likely.",
+    "topic": "Qualification and uncertainty",
+    "hint": "c… b… r… o…"
+  },
+  {
+    "phrase": "on balance",
+    "meaning": "after weighing the relevant advantages and disadvantages",
+    "prompt": "［…］, the simpler design seems the better choice for this project.",
+    "example": "On balance, the simpler design seems the better choice for this project.",
+    "usage": "Use for a judgement after considering competing factors.",
+    "topic": "Qualification and uncertainty",
+    "hint": "o… b…"
+  },
+  {
+    "phrase": "nevertheless",
+    "meaning": "despite what has just been said",
+    "prompt": "The first trial had few participants; ［…］, it revealed a useful design flaw.",
+    "example": "The first trial had few participants; nevertheless, it revealed a useful design flaw.",
+    "usage": "Connects a concession to a contrasting point; punctuate it as a sentence adverb.",
+    "topic": "Contrast and concession",
+    "hint": "n…"
+  },
+  {
+    "phrase": "whereas",
+    "meaning": "while a second fact contrasts with the first",
+    "prompt": "The first course teaches individual words, ［…］ the second practises phrases.",
+    "example": "The first course teaches individual words, whereas the second practises phrases.",
+    "usage": "Whereas joins clauses that present a contrast; it is not a reason connector.",
+    "topic": "Contrast and concession",
+    "hint": "w…"
+  },
+  {
+    "phrase": "notwithstanding",
+    "meaning": "despite the fact or circumstance mentioned",
+    "prompt": "［…］ the delay, the organisers delivered a well-run event.",
+    "example": "Notwithstanding the delay, the organisers delivered a well-run event.",
+    "usage": "Formal; often followed by a noun phrase.",
+    "topic": "Contrast and concession",
+    "hint": "n…"
+  },
+  {
+    "phrase": "by contrast",
+    "meaning": "in a way that highlights a difference",
+    "prompt": "The first group used a fixed schedule; ［…］, the second chose its own pace.",
+    "example": "The first group used a fixed schedule; by contrast, the second chose its own pace.",
+    "usage": "Usually compares the new point with the previous one.",
+    "topic": "Contrast and concession",
+    "hint": "b… c…"
+  },
+  {
+    "phrase": "even so",
+    "meaning": "despite that fact",
+    "prompt": "The deadline has been extended. ［…］, we should begin the review today.",
+    "example": "The deadline has been extended. Even so, we should begin the review today.",
+    "usage": "Often starts a new sentence; natural in speech as well as writing.",
+    "topic": "Contrast and concession",
+    "hint": "e… s…"
+  },
+  {
+    "phrase": "admittedly",
+    "meaning": "used to acknowledge a point before developing an argument",
+    "prompt": "［…］, the cheaper model has fewer features, but it meets our needs.",
+    "example": "Admittedly, the cheaper model has fewer features, but it meets our needs.",
+    "usage": "Use to concede something relevant, often before but or however.",
+    "topic": "Contrast and concession",
+    "hint": "a…"
+  },
+  {
+    "phrase": "for all its strengths",
+    "meaning": "despite the advantages it has",
+    "prompt": "［…］, the system still requires too much manual checking.",
+    "example": "For all its strengths, the system still requires too much manual checking.",
+    "usage": "Its refers to the thing discussed; the phrase introduces a limitation.",
+    "topic": "Contrast and concession",
+    "hint": "f… a… i… s…"
+  },
+  {
+    "phrase": "irrespective of",
+    "meaning": "without being affected by a particular factor",
+    "prompt": "The same safety rules apply ［…］ the visitor's role.",
+    "example": "The same safety rules apply irrespective of the visitor's role.",
+    "usage": "Follow with a noun phrase or whether-clause; formal in tone.",
+    "topic": "Contrast and concession",
+    "hint": "i… o…"
+  },
+  {
+    "phrase": "that said",
+    "meaning": "introducing a qualification to the point just made",
+    "prompt": "The new layout is easier to read. ［…］, its mobile version needs work.",
+    "example": "The new layout is easier to read. That said, its mobile version needs work.",
+    "usage": "Natural in discussion and less formal writing; the second point qualifies the first.",
+    "topic": "Contrast and concession",
+    "hint": "t… s…"
+  },
+  {
+    "phrase": "a counterargument",
+    "meaning": "a reason that challenges an argument already made",
+    "prompt": "［…］ is that the extra checks will slow the process.",
+    "example": "A counterargument is that the extra checks will slow the process.",
+    "usage": "Explain the objection fairly before responding to it.",
+    "topic": "Contrast and concession",
+    "hint": "a… c…"
+  },
+  {
+    "phrase": "give rise to",
+    "meaning": "cause something to appear or happen",
+    "prompt": "Unclear instructions can ［…］ repeated mistakes.",
+    "example": "Unclear instructions can give rise to repeated mistakes.",
+    "usage": "Often used with problems, concerns or disputes; formal but widely used.",
+    "topic": "Causes and consequences",
+    "hint": "g… r… t…"
+  },
+  {
+    "phrase": "stem from",
+    "meaning": "originate in a particular cause",
+    "prompt": "Some of the delays may ［…］ an unclear division of responsibility.",
+    "example": "Some of the delays may stem from an unclear division of responsibility.",
+    "usage": "The effect comes before stem from; the cause follows it.",
+    "topic": "Causes and consequences",
+    "hint": "s… f…"
+  },
+  {
+    "phrase": "be attributable to",
+    "meaning": "be explainable as the result of a particular cause",
+    "prompt": "The increase could ［…］ the longer opening hours.",
+    "example": "The increase could be attributable to the longer opening hours.",
+    "usage": "Attribution needs evidence; could makes the claim provisional.",
+    "topic": "Causes and consequences",
+    "hint": "b… a… t…"
+  },
+  {
+    "phrase": "have far-reaching implications",
+    "meaning": "affect many things or have important consequences beyond the immediate situation",
+    "prompt": "Changing the funding model could ［…］ for smaller schools.",
+    "example": "Changing the funding model could have far-reaching implications for smaller schools.",
+    "usage": "Far-reaching is a strong description; explain the wider consequences.",
+    "topic": "Causes and consequences",
+    "hint": "h… f… i…"
+  },
+  {
+    "phrase": "an unintended consequence",
+    "meaning": "an outcome that was not the aim of an action",
+    "prompt": "Longer waiting times were ［…］ of the extra checks.",
+    "example": "Longer waiting times were an unintended consequence of the extra checks.",
+    "usage": "Unintended does not automatically mean unpredictable or harmful.",
+    "topic": "Causes and consequences",
+    "hint": "a… u… c…"
+  },
+  {
+    "phrase": "exacerbate the problem",
+    "meaning": "make an existing difficulty more severe",
+    "prompt": "Adding another approval stage may ［…］ rather than solve it.",
+    "example": "Adding another approval stage may exacerbate the problem rather than solve it.",
+    "usage": "Exacerbate means worsen; the problem already exists.",
+    "topic": "Causes and consequences",
+    "hint": "e… t… p…"
+  },
+  {
+    "phrase": "pave the way for",
+    "meaning": "make a later development possible or easier",
+    "prompt": "A successful small trial could ［…］ a larger study.",
+    "example": "A successful small trial could pave the way for a larger study.",
+    "usage": "Follow for with a noun phrase; the later development is not guaranteed.",
+    "topic": "Causes and consequences",
+    "hint": "p… t… w… f…"
+  },
+  {
+    "phrase": "hinge on",
+    "meaning": "depend critically on one factor",
+    "prompt": "The success of the plan will ［…］ reliable delivery times.",
+    "example": "The success of the plan will hinge on reliable delivery times.",
+    "usage": "Hinge on points to a factor that can decide the outcome.",
+    "topic": "Causes and consequences",
+    "hint": "h… o…"
+  },
+  {
+    "phrase": "a contributing factor",
+    "meaning": "one of several things that help cause an outcome",
+    "prompt": "Limited training was ［…］ in the repeated errors.",
+    "example": "Limited training was a contributing factor in the repeated errors.",
+    "usage": "The phrase avoids presenting one factor as the sole cause.",
+    "topic": "Causes and consequences",
+    "hint": "a… c… f…"
+  },
+  {
+    "phrase": "correlation does not establish causation",
+    "meaning": "two things varying together does not prove that one causes the other",
+    "prompt": "The two measures increased together, but ［…］.",
+    "example": "The two measures increased together, but correlation does not establish causation.",
+    "usage": "Another factor, reverse causation or chance may explain the association.",
+    "topic": "Causes and consequences",
+    "hint": "c… d… n… e… c…"
+  },
+  {
+    "phrase": "in this respect",
+    "meaning": "concerning the particular feature just mentioned",
+    "prompt": "The newer model uses less electricity. ［…］, it is an improvement.",
+    "example": "The newer model uses less electricity. In this respect, it is an improvement.",
+    "usage": "Make the preceding feature clear; the claim concerns that feature only.",
+    "topic": "Scope and comparison",
+    "hint": "i… t… r…"
+  },
+  {
+    "phrase": "in relative terms",
+    "meaning": "when judged in comparison with something else",
+    "prompt": "The increase is small ［…］ because the starting total was very large.",
+    "example": "The increase is small in relative terms because the starting total was very large.",
+    "usage": "State the comparison or baseline that makes relative meaningful.",
+    "topic": "Scope and comparison",
+    "hint": "i… r… t…"
+  },
+  {
+    "phrase": "in absolute terms",
+    "meaning": "when judged by the actual amount rather than a proportion or comparison",
+    "prompt": "The percentage rise is modest, but the cost increase is large ［…］.",
+    "example": "The percentage rise is modest, but the cost increase is large in absolute terms.",
+    "usage": "Distinguish the actual amount from the percentage change.",
+    "topic": "Scope and comparison",
+    "hint": "i… a… t…"
+  },
+  {
+    "phrase": "under comparable conditions",
+    "meaning": "in circumstances similar enough to allow a fair comparison",
+    "prompt": "We should test both tools ［…］.",
+    "example": "We should test both tools under comparable conditions.",
+    "usage": "Comparable means sufficiently similar for the purpose, not necessarily identical.",
+    "topic": "Scope and comparison",
+    "hint": "u… c… c…"
+  },
+  {
+    "phrase": "a case in point",
+    "meaning": "a specific example that illustrates the point being made",
+    "prompt": "The missing labels caused confusion; yesterday's support call is ［…］.",
+    "example": "The missing labels caused confusion; yesterday's support call is a case in point.",
+    "usage": "Use after a general point, then identify a relevant example.",
+    "topic": "Scope and comparison",
+    "hint": "a… c… i… p…"
+  },
+  {
+    "phrase": "for the purposes of",
+    "meaning": "within the particular task, study or discussion named",
+    "prompt": "［…］ this study, a session means one completed practice activity.",
+    "example": "For the purposes of this study, a session means one completed practice activity.",
+    "usage": "Useful for stating a working definition with a limited scope.",
+    "topic": "Scope and comparison",
+    "hint": "f… t… p… o…"
+  },
+  {
+    "phrase": "beyond the scope of",
+    "meaning": "outside the limits of what is being discussed or investigated",
+    "prompt": "Long-term costs are ［…］ this initial review.",
+    "example": "Long-term costs are beyond the scope of this initial review.",
+    "usage": "Name the work whose boundary you are setting.",
+    "topic": "Scope and comparison",
+    "hint": "b… t… s… o…"
+  },
+  {
+    "phrase": "in the broader context of",
+    "meaning": "when considered as part of a wider situation",
+    "prompt": "The decision makes more sense ［…］ the city's transport plans.",
+    "example": "The decision makes more sense in the broader context of the city's transport plans.",
+    "usage": "Explain the wider situation rather than using the phrase as filler.",
+    "topic": "Scope and comparison",
+    "hint": "i… t… b… c… o…"
+  },
+  {
+    "phrase": "at the expense of",
+    "meaning": "with a loss or disadvantage to something else",
+    "prompt": "The faster process should not come ［…］ accuracy.",
+    "example": "The faster process should not come at the expense of accuracy.",
+    "usage": "Names a trade-off: one benefit is obtained while another thing suffers.",
+    "topic": "Scope and comparison",
+    "hint": "a… t… e… o…"
+  },
+  {
+    "phrase": "a trade-off between",
+    "meaning": "a situation in which improving one thing may mean losing some of another",
+    "prompt": "There is ［…］ a compact design and the space available for text.",
+    "example": "There is a trade-off between a compact design and the space available for text.",
+    "usage": "Often followed by two competing benefits or priorities.",
+    "topic": "Scope and comparison",
+    "hint": "a… t… b…"
+  },
+  {
+    "phrase": "a viable alternative",
+    "meaning": "a different option that can realistically work",
+    "prompt": "A shared workspace may be ［…］ to a private office.",
+    "example": "A shared workspace may be a viable alternative to a private office.",
+    "usage": "Viable means workable under the circumstances, not necessarily the best option.",
+    "topic": "Evaluation and conclusions",
+    "hint": "a… v… a…"
+  },
+  {
+    "phrase": "outweigh the drawbacks",
+    "meaning": "be more important or valuable than the disadvantages",
+    "prompt": "For this team, the flexibility may ［…］ of remote work.",
+    "example": "For this team, the flexibility may outweigh the drawbacks of remote work.",
+    "usage": "The benefits are the subject of outweigh; the disadvantages follow it.",
+    "topic": "Evaluation and conclusions",
+    "hint": "o… t… d…"
+  },
+  {
+    "phrase": "fall short of expectations",
+    "meaning": "perform less well than people reasonably anticipated",
+    "prompt": "The service could ［…］ if support remains this slow.",
+    "example": "The service could fall short of expectations if support remains this slow.",
+    "usage": "Fall is irregular: fall, fell, fallen.",
+    "topic": "Evaluation and conclusions",
+    "hint": "f… s… o… e…"
+  },
+  {
+    "phrase": "a qualified endorsement",
+    "meaning": "support that is limited by stated conditions or doubts",
+    "prompt": "The review offers ［…］ of the plan, provided its costs are capped.",
+    "example": "The review offers a qualified endorsement of the plan, provided its costs are capped.",
+    "usage": "Qualified here means limited, not professionally certified.",
+    "topic": "Evaluation and conclusions",
+    "hint": "a… q… e…"
+  },
+  {
+    "phrase": "a compelling rationale",
+    "meaning": "a strong and convincing reason for a choice or action",
+    "prompt": "The team needs ［…］ for replacing a system that still works.",
+    "example": "The team needs a compelling rationale for replacing a system that still works.",
+    "usage": "A rationale explains a decision; name the actual reasons.",
+    "topic": "Evaluation and conclusions",
+    "hint": "a… c… r…"
+  },
+  {
+    "phrase": "leave much to be desired",
+    "meaning": "be substantially worse than one would reasonably want",
+    "prompt": "The product works, but its instructions ［…］.",
+    "example": "The product works, but its instructions leave much to be desired.",
+    "usage": "A critical idiom; it suggests considerable room for improvement.",
+    "topic": "Evaluation and conclusions",
+    "hint": "l… m… t… b… d…"
+  },
+  {
+    "phrase": "merit consideration",
+    "meaning": "deserve to be examined as a possible choice",
+    "prompt": "The simpler proposal may ［…］ even if it lacks some features.",
+    "example": "The simpler proposal may merit consideration even if it lacks some features.",
+    "usage": "Merit consideration does not mean merit approval.",
+    "topic": "Evaluation and conclusions",
+    "hint": "m… c…"
+  },
+  {
+    "phrase": "reach an impasse",
+    "meaning": "arrive at a point where progress is blocked by disagreement",
+    "prompt": "Negotiations may ［…］ if neither side will discuss the deadline.",
+    "example": "Negotiations may reach an impasse if neither side will discuss the deadline.",
+    "usage": "An impasse is a deadlock; often used about discussions or negotiations.",
+    "topic": "Evaluation and conclusions",
+    "hint": "r… a… i…"
+  },
+  {
+    "phrase": "a pragmatic approach",
+    "meaning": "a way of acting that focuses on what will work in practice",
+    "prompt": "Starting with a small pilot is ［…］ to an uncertain problem.",
+    "example": "Starting with a small pilot is a pragmatic approach to an uncertain problem.",
+    "usage": "Pragmatic stresses practical results, rather than adherence to an ideal theory.",
+    "topic": "Evaluation and conclusions",
+    "hint": "a… p… a…"
+  },
+  {
+    "phrase": "a balanced assessment",
+    "meaning": "an evaluation that gives fair attention to relevant strengths and weaknesses",
+    "prompt": "［…］ should discuss both the useful features and the maintenance costs.",
+    "example": "A balanced assessment should discuss both the useful features and the maintenance costs.",
+    "usage": "Balance means fair consideration, not automatically equal praise and criticism.",
+    "topic": "Evaluation and conclusions",
+    "hint": "a… b… a…"
+  }
+]
